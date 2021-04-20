@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**wireless25/wireless25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Stephan Simonett, frontend developer from Switzerland with big love for design, UX and accessibility
 
-Here are some ideas to get you started:
+### creator of
+- [Northway](https://northway.blog)
+- [frontendjobs.ch](https://frontendjobs.ch)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently happily employed at [codebar](https://github.com/codebar-ag) as head of frontend development
+
+### building projects like
+- [immo.space](https://www.immo.space)
+- [agrokommerz.ch](https://www.agrokommerz.ch)
+- [danielclement.ch](https://www.danielclement.ch)
+
+#### ask me about
+- Vue.js
+- Nuxt.js
+- Inertia.js
+- Vercel
