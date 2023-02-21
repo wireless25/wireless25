@@ -6,12 +6,7 @@ I'm Stephan Simonett, frontend developer from Switzerland with big love for desi
 - [Northway](https://northway.blog)
 - [frontendjobs.ch](https://frontendjobs.ch)
 
-happily employed at [codebar](https://github.com/codebar-ag) as **head of frontend development**
-
-### building projects like
-- [immo.space](https://www.immo.space)
-- [agrokommerz.ch](https://www.agrokommerz.ch)
-- [danielclement.com](https://www.danielclement.com/)
+happily employed at [sozialinfo.ch](https://www.sozialinfo.ch) as **lead frontend developer**
 
 #### ask me about
 - Vue.js
