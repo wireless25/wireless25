@@ -11,5 +11,5 @@ happily employed at [sozialinfo.ch](https://www.sozialinfo.ch) as **lead fronten
 #### ask me about
 - Vue.js
 - Nuxt.js
-- Inertia.js
-- Vercel
+- JAM stack
+- Netlify
